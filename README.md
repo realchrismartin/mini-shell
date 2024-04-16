@@ -3,7 +3,7 @@
   <h1>Mini-Shell</h1>
   
   <p>
-    A trivial shell implementation in C
+    A trivial (and redundant!) shell implementation in C
   </p>
 
 </div>
@@ -23,19 +23,16 @@
 
 This project exists as an excuse to play with C and learn how systems APIs work in Linux.
 
-<!-- TechStack -->
 ### Tech Stack
 
 <img src="https://img.shields.io/badge/Language:%20C-grey" alt="language" />
 
-<!-- Features -->
 ### Features
 
 - Run standard Unix commands in yet-another-shell-inside-your-shell!
 - Check your command execution statistics using `stats`
 
-<!-- Installation -->
-### Installation
+### Usage 
 
 This project must be compiled in Linux/Unix due to the use of platform-specific headers. WSL is fine!
 
