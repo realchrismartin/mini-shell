@@ -25,7 +25,7 @@ This project exists as an excuse to play with C and learn how systems APIs work 
 
 ### Tech Stack
 
-<img src="https://img.shields.io/badge/Language:%20C-grey" alt="language" />
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 
 ### Features
 
