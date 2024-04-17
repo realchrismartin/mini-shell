@@ -5,11 +5,10 @@
   <p>
     A trivial (and redundant!) shell implementation in C
   </p>
-
 </div>
 
 <div align="center">
-  ![screenshot](screenshot.png)
+  <img src="https://github.com/realchrismartin/mini-shell/blob/master/screenshot.png" />
 </div>
 
 # Table of Contents
