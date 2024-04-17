@@ -8,7 +8,9 @@
 
 </div>
 
-![screenshot](screenshot.png)
+<div align="center">
+  ![screenshot](screenshot.png)
+</div>
 
 # Table of Contents
 
