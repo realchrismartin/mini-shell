@@ -8,7 +8,7 @@
 
 </div>
 
-![screenshot](preview.png)
+![screenshot](screenshot.png)
 
 # Table of Contents
 
